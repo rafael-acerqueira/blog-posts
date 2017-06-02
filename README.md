@@ -28,6 +28,7 @@ Temas | Branch | Autor
 [ ] Boas ideias de projetos para iniciantes | beginner_projects
 [x] Primeiros passos com o dotfiles do Campus Code | cc_dotfiles | Daniel Lima
 [ ] Configurando Docker em uma aplicação Rails | docker_rails
+[ ] Como testar a autenticação na sua aplicação Rails | rspec_auth | Rafael Aquino
 [ ] Sugira seu tema!
 
 ## Dúvidas?
